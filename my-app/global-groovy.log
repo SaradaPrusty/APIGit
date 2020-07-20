@@ -1,0 +1,14 @@
+2020-07-16 14:01:52,338 INFO  [log] <response>
+   <status>OK</status>
+   <place_id>305e28b2e8a8426dd471deeddbff924b</place_id>
+   <scope>APP</scope>
+   <reference>ebec5716ca5730e3acce6a16f61f1702ebec5716ca5730e3acce6a16f61f1702</reference>
+   <id>ebec5716ca5730e3acce6a16f61f1702</id>
+</response>
+2020-07-16 14:01:52,861 INFO  [log] <response>
+   <status>OK</status>
+   <place_id>8b0db9889d6937689ae75ec038981c20</place_id>
+   <scope>APP</scope>
+   <reference>7d32bb3c2f51c67568e70abe7fbb18d07d32bb3c2f51c67568e70abe7fbb18d0</reference>
+   <id>7d32bb3c2f51c67568e70abe7fbb18d0</id>
+</response>
